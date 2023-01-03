@@ -3,6 +3,7 @@ import openai
 import os
 
 # import to use .env file.
+import dotenv
 from dotenv import load_dotenv
 
 # importing commands .
