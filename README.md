@@ -13,4 +13,4 @@ On the same page there will be an option to generate/reset a token which you wil
 
 
 ### OpenAI
-Visit https://beta.openai.com/account/api-keys. You'll need to log in to your account but as of writing this the API is free to use. You then can generate a new secret key but just like the discord token, it can only be viewed once. Place the key in the OPENAI_API_KEY variable in the .env file.
+Visit https://beta.openai.com/account/api-keys. You'll need to log in to your account but as of writing this the API is free to use (Up to $18.00 in credits for 3 months with .02 cents per 1k tokens). You then can generate a new secret key but just like the discord token, it can only be viewed once. Place the key in the OPENAI_API_KEY variable in the .env file.
